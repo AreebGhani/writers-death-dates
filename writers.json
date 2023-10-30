@@ -1,0 +1,214 @@
+[
+    {
+        "name": "William Shakespeare",
+        "deathDate": "1616-04-23"
+    },
+    {
+        "name": "Jane Austen",
+        "deathDate": "1817-07-18"
+    },
+    {
+        "name": "Leo Tolstoy",
+        "deathDate": "1910-11-20"
+    },
+    {
+        "name": "F. Scott Fitzgerald",
+        "deathDate": "1940-12-21"
+    },
+    {
+        "name": "Charles Dickens",
+        "deathDate": "1870-06-09"
+    },
+    {
+        "name": "Ernest Hemingway",
+        "deathDate": "1961-07-02"
+    },
+    {
+        "name": "Mark Twain",
+        "deathDate": "1910-04-21"
+    },
+    {
+        "name": "George Orwell",
+        "deathDate": "1950-01-21"
+    },
+    {
+        "name": "Emily Brontë",
+        "deathDate": "1848-12-19"
+    },
+    {
+        "name": "Agatha Christie",
+        "deathDate": "1976-01-12"
+    },
+    {
+        "name": "Hermann Hesse",
+        "deathDate": "1962-08-09"
+    },
+    {
+        "name": "J.K. Rowling",
+        "deathDate": "Alive"
+    },
+    {
+        "name": "Gabriel García Márquez",
+        "deathDate": "2014-04-17"
+    },
+    {
+        "name": "Harper Lee",
+        "deathDate": "2016-02-19"
+    },
+    {
+        "name": "J.R.R. Tolkien",
+        "deathDate": "1973-09-02"
+    },
+    {
+        "name": "Leo Tolstoy",
+        "deathDate": "1910-11-20"
+    },
+    {
+        "name": "Aldous Huxley",
+        "deathDate": "1963-11-22"
+    },
+    {
+        "name": "Edgar Allan Poe",
+        "deathDate": "1849-10-07"
+    },
+    {
+        "name": "George R.R. Martin",
+        "deathDate": "Alive"
+    },
+    {
+        "name": "Victor Hugo",
+        "deathDate": "1885-05-22"
+    },
+    {
+        "name": "Fyodor Dostoevsky",
+        "deathDate": "1881-02-09"
+    },
+    {
+        "name": "Toni Morrison",
+        "deathDate": "2019-08-05"
+    },
+    {
+        "name": "Mary Shelley",
+        "deathDate": "1851-02-01"
+    },
+    {
+        "name": "Stephen King",
+        "deathDate": "Alive"
+    },
+    {
+        "name": "John Steinbeck",
+        "deathDate": "1968-12-20"
+    },
+    {
+        "name": "Jane Austen",
+        "deathDate": "1817-07-18"
+    },
+    {
+        "name": "Franz Kafka",
+        "deathDate": "1924-06-03"
+    },
+    {
+        "name": "Virginia Woolf",
+        "deathDate": "1941-03-28"
+    },
+    {
+        "name": "Miguel de Cervantes",
+        "deathDate": "1616-04-22"
+    },
+    {
+        "name": "Louisa May Alcott",
+        "deathDate": "1888-03-06"
+    },
+    {
+        "name": "Ray Bradbury",
+        "deathDate": "2012-06-05"
+    },
+    {
+        "name": "Oscar Wilde",
+        "deathDate": "1900-11-30"
+    },
+    {
+        "name": "H.G. Wells",
+        "deathDate": "1946-08-13"
+    },
+    {
+        "name": "Jules Verne",
+        "deathDate": "1905-03-24"
+    },
+    {
+        "name": "Anton Chekhov",
+        "deathDate": "1904-07-15"
+    },
+    {
+        "name": "Arthur Conan Doyle",
+        "deathDate": "1930-07-07"
+    },
+    {
+        "name": "Charlotte Brontë",
+        "deathDate": "1855-03-31"
+    },
+    {
+        "name": "Robert Louis Stevenson",
+        "deathDate": "1894-12-03"
+    },
+    {
+        "name": "William Faulkner",
+        "deathDate": "1962-07-06"
+    },
+    {
+        "name": "George Orwell",
+        "deathDate": "1950-01-21"
+    },
+    {
+        "name": "Emily Brontë",
+        "deathDate": "1848-12-19"
+    },
+    {
+        "name": "Agatha Christie",
+        "deathDate": "1976-01-12"
+    },
+    {
+        "name": "Hermann Hesse",
+        "deathDate": "1962-08-09"
+    },
+    {
+        "name": "J.K. Rowling",
+        "deathDate": "Alive"
+    },
+    {
+        "name": "Gabriel García Márquez",
+        "deathDate": "2014-04-17"
+    },
+    {
+        "name": "Harper Lee",
+        "deathDate": "2016-02-19"
+    },
+    {
+        "name": "J.R.R. Tolkien",
+        "deathDate": "1973-09-02"
+    },
+    {
+        "name": "Leo Tolstoy",
+        "deathDate": "1910-11-20"
+    },
+    {
+        "name": "Aldous Huxley",
+        "deathDate": "1963-11-22"
+    },
+    {
+        "name": "Edgar Allan Poe",
+        "deathDate": "1849-10-07"
+    },
+    {
+        "name": "George R.R. Martin",
+        "deathDate": "Alive"
+    },
+    {
+        "name": "Victor Hugo",
+        "deathDate": "1885-05-22"
+    },
+    {
+        "name": "Fyodor Dostoevsky",
+        "deathDate": "1881-02-09"
+    }
+]

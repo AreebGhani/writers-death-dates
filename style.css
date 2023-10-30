@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+a {
+    cursor: pointer;
+}
+
+body::-webkit-scrollbar {
+    width: 1rem;
+}
+
+body::-webkit-scrollbar-track {
+    background-color: rgb(54, 54, 54);
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #fff;
+    border: 5px solid transparent;
+    border-radius: 9px;
+    background-clip: content-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    scrollbar-color: #fefefe;
+    scrollbar-width: thin;
+    width: 100%;
+    overflow-x: hidden;
+    background-color: lightblue !important;
+}
+
+h1 {
+    color: black;
+    margin: 20px;
+}
+
+input {
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 6px 0 6px 0;
+}
+
+input:focus {
+    border: 1px solid white;
+    outline: none;
+    appearance: none;
+}
+
+.container {
+    background-color: lightblue;
+}
+
+#writer-list {
+    background-color: lightblue;
+    color: black;
+    list-style: none;
+    padding-top: 20px;
+}
+
+.list-group li {
+    padding: 8px 20px;
+    border: 1px solid white;
+    background-color: lightblue;
+    color: black;
+}
+
+.pagination {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pagination-list {
+    width: 100%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+}
+
+.page-item {
+    display: inline;
+    margin: 5px;
+}
+
+.page-link {
+    text-decoration: none;
+    color: #007BFF;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.page-link[disabled] {
+    pointer-events: none;
+    color: #6c757d;
+    background-color: #f8f9fa;
+    border-color: #dee2e6;
+}
+
+.footer {
+    margin-top: 50px;
+    padding-top: 50px;
+    border-top: 3px solid white;
+}
+
+.footer,
+.copyright {
+    background-color: lightblue;
+    color: black;
+}
+
+.footer a,
+.copyright a {
+    text-decoration: none;
+    color: black;
+}
+
+.footer a:hover,
+.copyright a:hover {
+    text-decoration: underline;
+}
